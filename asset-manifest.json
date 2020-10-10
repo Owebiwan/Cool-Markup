@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Cool-Markup/static/css/main.5fb2a80b.chunk.css",
+    "main.js": "/Cool-Markup/static/js/main.59f1871b.chunk.js",
+    "main.js.map": "/Cool-Markup/static/js/main.59f1871b.chunk.js.map",
+    "runtime-main.js": "/Cool-Markup/static/js/runtime-main.16842730.js",
+    "runtime-main.js.map": "/Cool-Markup/static/js/runtime-main.16842730.js.map",
+    "static/js/2.50879f21.chunk.js": "/Cool-Markup/static/js/2.50879f21.chunk.js",
+    "static/js/2.50879f21.chunk.js.map": "/Cool-Markup/static/js/2.50879f21.chunk.js.map",
+    "index.html": "/Cool-Markup/index.html",
+    "precache-manifest.fcf9c282de2ed152f99028ffe53257f9.js": "/Cool-Markup/precache-manifest.fcf9c282de2ed152f99028ffe53257f9.js",
+    "service-worker.js": "/Cool-Markup/service-worker.js",
+    "static/css/main.5fb2a80b.chunk.css.map": "/Cool-Markup/static/css/main.5fb2a80b.chunk.css.map",
+    "static/js/2.50879f21.chunk.js.LICENSE.txt": "/Cool-Markup/static/js/2.50879f21.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16842730.js",
+    "static/js/2.50879f21.chunk.js",
+    "static/css/main.5fb2a80b.chunk.css",
+    "static/js/main.59f1871b.chunk.js"
+  ]
+}
