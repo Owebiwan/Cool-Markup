@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6e2280f1e7bf413f0cebbb7378262682",
+    "revision": "4eecd7bf335a2f69b4f4af6b316275d9",
     "url": "/Cool-Markup/index.html"
   },
   {
-    "revision": "c92adce065775fcfa7f3",
-    "url": "/Cool-Markup/static/css/main.5fb2a80b.chunk.css"
+    "revision": "d3b0a2f60e545105c0a5",
+    "url": "/Cool-Markup/static/css/main.5bff39d1.chunk.css"
   },
   {
     "revision": "7dd729d54cce6a20517d",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Cool-Markup/static/js/2.50879f21.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c92adce065775fcfa7f3",
-    "url": "/Cool-Markup/static/js/main.59f1871b.chunk.js"
+    "revision": "d3b0a2f60e545105c0a5",
+    "url": "/Cool-Markup/static/js/main.acccf0af.chunk.js"
   },
   {
     "revision": "6b6cae5c22b7768913ce",
