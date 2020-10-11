@@ -93,6 +93,27 @@ class App extends React.Component {
       : ["editorWrap", "previewWrap", "fa fa-arrows-alt"];
     return (
       <div>
+        <header>
+          <h3>
+            <span>B</span>
+            <span>e</span>
+            <span>e</span>
+            <span>w</span>
+            <span>a</span>
+            <span>n</span>
+            <span>'</span>
+            <span>s</span>
+            <span> </span>
+            <span>M</span>
+            <span>a</span>
+            <span>r</span>
+            <span>k</span>
+            <span>d</span>
+            <span>o</span>
+            <span>w</span>
+            <span>n</span>
+          </h3>
+        </header>
         <div className={classes[0]}>
           <section className="toolbar">
             <i className="fa fa-edit"></i>
@@ -122,6 +143,17 @@ class App extends React.Component {
               id="preview"
             />
           </section>
+        </div>
+        <div className="footer">
+          <a
+            className="contact"
+            target="blank"
+            href="https://linkedin.com/in/godwin-obamina"
+          >
+            <button>
+              by Beewan <i className="fa fa-linkedin-square"></i>
+            </button>
+          </a>
         </div>
       </div>
     );
